@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- 펌웨어가 귀찮으면 파이썬 보고, 파이썬도 귀찮으면 STM32 어플리케이션 짜고,
-- 그것도 귀찮으면 Kicad보고, 그래도 귀찮으면 좀 쉴게요..
-- 사실 C#먼저 공부했는데 마소 사이트에서 다시 해야 할 판입니다.
+- 역시 사람은 배워야해.....
 - 안쓰면 까먹으니 수시로 씁시다...
 <!--
 **Reflow-Soldering/Reflow-Soldering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
